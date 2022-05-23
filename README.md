@@ -4,6 +4,7 @@ Create a To-Do List website, which allow the user to view their daily tasks.
 
 ## You have to submit the following requirements:
 
+- Create ToDoList Project
 - Create ToDoList App
 - Create urls.py for ToDoList App
 - Create two views (home, about)
